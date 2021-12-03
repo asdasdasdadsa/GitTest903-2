@@ -3,7 +3,7 @@ fun main() {
     println("Первое изменение до применения Fork")
     println("Второе изменение (выполнено после операции Fork)")
     val mc = MyClass()
-    //;akdas;kda;sdk
+    //комментарий
     mc.doAction()
     val k = a()
     k.tt()
