@@ -5,7 +5,6 @@ fun main() {
     val mc = MyClass()
     //комментарий
     println("qweqweqweqweqweewqeweqweqqweqw")
-
     mc.doAction()
     val k = a()
     k.tt()
